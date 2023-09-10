@@ -1,7 +1,7 @@
 # ESA
 ESA - Enhanced Stream Alerts: A way to easily create advanced alerts for your stream.
 
-Be aware: Usualy Github is used for Open-Source Project, due to it containing necesary private data it is only avaiable es closed source.
+Be aware: Usualy Github is used for Open-Source Projects, however due to it containing necesary private data it is only avaiable as closed source.
 
 What exactly is ESA planned to be?</br>
 ESA is developed to be an easy way to implement common events (like follows) and rather uncommon events (like switching songs in spotify) in to your stream.
